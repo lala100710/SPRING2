@@ -1,0 +1,24 @@
+{
+    "mgniType": "2",
+    "mgniCmNo": "8030000",
+    "mgniBankNo": "700",
+    "mgniKacType": "1",
+    "mgniCcy": "TWD",
+    "mgniPVType": "1",
+    "mgniBicaccNo": "1",
+    "mgniCtName": "LALA",
+    "mgniCtTel": "22222",
+    "mgniAmt": 5000,
+    "createMgnCashiRequestList": [
+        {
+            "cashiAccNo": "0549713",
+            "cashiAmt": 2000,
+            "cashiCcy": "TWD"
+        },
+        {
+            "cashiAccNo": "0549714",
+            "cashiAmt": 2000,
+            "cashiCcy": "TWD"
+        }
+    ]
+}

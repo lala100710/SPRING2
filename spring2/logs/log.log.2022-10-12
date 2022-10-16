@@ -1,0 +1,127 @@
+2022-10-12 15:10:03,639 INFO [org.example.socket.Server] - starting
+2022-10-12 15:10:07,892 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:10:17,694 INFO [org.example.socket.Server] - starting
+2022-10-12 15:10:24,414 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:10:59,984 INFO [org.example.socket.Server] - starting
+2022-10-12 15:11:05,391 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:12:50,477 INFO [org.example.socket.Server] - starting
+2022-10-12 15:12:59,101 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:16:21,748 INFO [org.example.socket.Server] - starting
+2022-10-12 15:16:27,292 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:21:29,793 INFO [org.example.socket.Server] - starting
+2022-10-12 15:21:35,026 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:23:24,420 INFO [org.example.socket.Server] - starting
+2022-10-12 15:23:29,160 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:26:19,857 INFO [org.example.socket.Server] - starting
+2022-10-12 15:26:24,110 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:27:15,452 INFO [org.example.socket.Server] - starting
+2022-10-12 15:27:21,148 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:31:09,708 INFO [org.example.socket.Server] - starting
+2022-10-12 15:31:14,931 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:34:12,291 INFO [org.example.socket.Server] - starting
+2022-10-12 15:34:17,283 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:35:35,681 INFO [org.example.socket.Server] - starting
+2022-10-12 15:35:41,705 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:36:11,033 INFO [org.example.socket.Server] - starting
+2022-10-12 15:36:16,414 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:37:48,446 INFO [org.example.socket.Server] - starting
+2022-10-12 15:37:55,520 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:38:11,594 INFO [org.example.socket.Server] - starting
+2022-10-12 15:38:17,184 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:39:10,855 INFO [org.example.socket.Server] - starting
+2022-10-12 15:39:39,336 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:41:55,750 INFO [org.example.socket.Server] - starting
+2022-10-12 15:42:05,654 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:42:26,711 INFO [org.example.socket.Server] - starting
+2022-10-12 15:42:52,974 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:44:16,060 INFO [org.example.socket.Server] - starting
+2022-10-12 15:44:22,633 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:44:51,566 INFO [org.example.socket.Server] - starting
+2022-10-12 15:44:58,486 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:45:51,547 INFO [org.example.socket.Server] - starting
+2022-10-12 15:45:59,952 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:46:48,537 INFO [org.example.socket.Server] - starting
+2022-10-12 15:46:53,996 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:51:26,412 INFO [org.example.socket.Server] - starting
+2022-10-12 15:51:33,845 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:52:18,015 INFO [org.example.socket.Server] - starting
+2022-10-12 15:52:23,316 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:53:53,275 INFO [org.example.socket.Server] - starting
+2022-10-12 15:53:59,914 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:54:16,299 INFO [org.example.socket.Server] - starting
+2022-10-12 15:54:23,014 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:56:27,277 INFO [org.example.socket.Server] - starting
+2022-10-12 15:56:45,802 INFO [org.example.socket.Server] - starting
+2022-10-12 15:56:53,318 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 15:59:28,086 INFO [org.example.socket.Server] - starting
+2022-10-12 15:59:38,064 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:00:03,404 INFO [org.example.socket.Server] - starting
+2022-10-12 16:00:09,656 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:05:42,628 INFO [org.example.socket.Server] - starting
+2022-10-12 16:05:51,374 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:07:07,950 INFO [org.example.socket.Server] - starting
+2022-10-12 16:07:15,167 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:07:41,948 INFO [org.example.socket.Server] - starting
+2022-10-12 16:07:49,538 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:08:16,437 INFO [org.example.socket.Server] - starting
+2022-10-12 16:08:25,118 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:08:57,952 INFO [org.example.socket.Server] - starting
+2022-10-12 16:09:04,952 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:09:55,650 INFO [org.example.socket.Server] - starting
+2022-10-12 16:10:02,922 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:13:43,601 INFO [org.example.socket.Server] - starting
+2022-10-12 16:13:51,613 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:14:26,951 INFO [org.example.socket.Server] - starting
+2022-10-12 16:14:43,591 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:15:20,887 INFO [org.example.socket.Server] - starting
+2022-10-12 16:15:27,426 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:15:44,519 INFO [org.example.socket.Server] - starting
+2022-10-12 16:15:51,668 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:22:27,309 INFO [org.example.socket.Server] - starting
+2022-10-12 16:22:37,349 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:23:03,911 INFO [org.example.socket.Server] - starting
+2022-10-12 16:23:11,415 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:25:31,746 INFO [org.example.socket.Server] - starting
+2022-10-12 16:25:38,122 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:26:23,553 INFO [org.example.socket.Server] - starting
+2022-10-12 16:26:33,725 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:27:08,344 INFO [org.example.socket.Server] - starting
+2022-10-12 16:27:15,938 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:29:03,002 INFO [org.example.socket.Server] - starting
+2022-10-12 16:29:09,949 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:31:37,134 INFO [org.example.socket.Server] - starting
+2022-10-12 16:31:45,068 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:32:18,544 INFO [org.example.socket.Server] - starting
+2022-10-12 16:32:25,766 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:32:35,403 INFO [org.example.socket.Server] - starting
+2022-10-12 16:35:19,169 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:38:32,071 INFO [org.example.socket.Server] - starting
+2022-10-12 16:38:39,782 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:42:43,750 INFO [org.example.socket.Server] - starting
+2022-10-12 16:43:00,016 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:47:34,799 INFO [org.example.socket.Server] - starting
+2022-10-12 16:47:41,355 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 16:57:58,008 INFO [org.example.socket.Server] - starting
+2022-10-12 16:58:37,495 INFO [org.example.socket.Server] - starting
+2022-10-12 17:00:01,045 INFO [org.example.socket.Server] - starting
+2022-10-12 17:00:08,271 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:00:59,179 INFO [org.example.socket.Server] - starting
+2022-10-12 17:01:06,555 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:01:46,327 INFO [org.example.socket.Server] - starting
+2022-10-12 17:01:55,810 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:02:59,459 INFO [org.example.socket.Server] - starting
+2022-10-12 17:03:06,896 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:03:49,046 INFO [org.example.socket.Server] - starting
+2022-10-12 17:03:56,337 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:07:31,622 INFO [org.example.socket.Server] - starting
+2022-10-12 17:07:38,644 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:12:54,615 INFO [org.example.socket.Server] - starting
+2022-10-12 17:13:04,401 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:51:28,561 INFO [org.example.socket.Server] - starting
+2022-10-12 17:51:37,424 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:55:32,189 INFO [org.example.socket.Server] - starting
+2022-10-12 17:55:38,728 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:57:05,791 INFO [org.example.socket.Server] - starting
+2022-10-12 17:57:11,959 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final
+2022-10-12 17:57:48,245 INFO [org.example.socket.Server] - starting
+2022-10-12 17:57:55,437 INFO [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.1.5.Final

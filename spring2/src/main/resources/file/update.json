@@ -1,0 +1,19 @@
+{
+  "mgniId":"MGI20221013145033357",
+  "mgniType": "2",
+  "mgniCmNo": "8030000",
+  "mgniBankNo": "700",
+  "mgniKacType": "1",
+  "mgniCcy": "TWD",
+  "mgniPvType": "1",
+  "mgniBicaccNo": "1",
+  "mgniCtName":"Andy",
+  "mgniCtTel":"22222",
+  "mgnCashiList": [
+    {
+      "cashiAccNo": "0549713",
+      "cashiCcy": "TWD",
+      "cashiAmt": 2700
+    }
+  ]
+}
